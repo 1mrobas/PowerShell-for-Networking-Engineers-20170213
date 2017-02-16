@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ins_api>
+  <version>1.0</version>
+  <type>cli_show</type>
+  <chunk>0</chunk>
+  <sid>sid</sid>
+  <input>show vlan</input>
+  <output_format>xml</output_format>
+</ins_api>

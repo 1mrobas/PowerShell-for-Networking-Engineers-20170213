@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ins_api>
+  <version>1.2</version>
+  <type>cli_show_ascii</type>
+  <chunk>0</chunk>
+  <sid>sid</sid>
+  <input>show flogi database</input>
+  <output_format>xml</output_format>
+</ins_api>

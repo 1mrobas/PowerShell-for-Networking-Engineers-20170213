@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ins_api>
+  <version>1.2</version>
+  <type>cli_conf</type>
+  <chunk>0</chunk>
+  <sid>sid</sid>
+  <input>zone name #ZONE_NAME# vsan #VSAN_ID# ; member device-alias #DEV_AL1# ; member device-alias #DEV_AL2#</input>
+  <output_format>xml</output_format>
+</ins_api>
