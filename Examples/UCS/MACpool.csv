@@ -1,0 +1,15 @@
+Name,ss,f,t,Size,Org,vNIC,Template used,Comment,Order
+mpSrvMgmtA,0,a,1,2,Pod1,nicSrvMgmtA,ntSrvMgmtA,Mgmt fabric A for hosts,sequential
+mpSrvMgmtB,0,b,1,2,Pod1,nicSrvMgmtB,ntSrvMgmtB,Mgmt fabric B for hosts,sequential
+mpVMotion,99,c,1,2,Pod1,nicVMotion,ntVMotion,Vmotion fabric AB for hosts,sequential
+mpUpl01A,1,a,1,2,Pod1,nicUpl01A,ntUpl1A,VM uplink fabric A for hosts,sequential
+mpUpl01B,1,b,1,2,Pod1,nicUpl01B,ntUpl1B,VM uplink fabric B for hosts,sequential
+mpUpl02A,2,a,1,2,Pod1,nicUpl02A,ntUpl2A,VM uplink fabric A for hosts,sequential
+mpUpl02B,2,b,1,2,Pod1,nicUpl02B,ntUpl2B,VM uplink fabric B for hosts,sequential
+mpSrvMgmtA,0,a,2,2,Pod2,nicSrvMgmtA,ntSrvMgmtA,Mgmt fabric A for hosts,sequential
+mpSrvMgmtB,0,b,2,2,Pod2,nicSrvMgmtB,ntSrvMgmtB,Mgmt fabric B for hosts,sequential
+mpVMotion,99,c,2,2,Pod2,nicVMotion,ntVMotion,Vmotion fabric AB for hosts,sequential
+mpUpl01A,1,a,2,2,Pod2,nicUpl01A,ntUpl1A,VM uplink fabric A for hosts,sequential
+mpUpl01B,1,b,2,2,Pod2,nicUpl01B,ntUpl1B,VM uplink fabric B for hosts,sequential
+mpUpl02A,2,a,2,2,Pod2,nicUpl02A,ntUpl2A,VM uplink fabric A for hosts,sequential
+mpUpl02B,2,b,2,2,Pod2,nicUpl02B,ntUpl2B,VM uplink fabric B for hosts,sequential

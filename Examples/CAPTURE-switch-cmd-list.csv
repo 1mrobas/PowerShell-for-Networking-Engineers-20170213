@@ -1,0 +1,10 @@
+Cmd
+sh run
+sh ver
+sh int brief
+sh int status
+sh cdp neighbor
+sh cdp neighbor detail
+sh ip int brief
+sh ip route
+sh vlan
